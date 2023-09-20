@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @and-vil; I have over a decade of experience with DBs, full-stack development, and C++.
+- 👋 Hi, I’m Andy; I have over a decade of experience with DBs, full-stack development, and C++.
 - 👀 I’m interested in C/C++, Rust, optimization, and all things database-related.
 - 🌱 I’m currently learning Rust and re-learning C++.
 - 💞️ I’m looking to collaborate on anything that involves DBs, Rust, lower-level code, ML, MLOps, and/or general-purpose utility, such as [Detexify](https://detexify.kirelabs.org/classify.html) or [Shapecatcher](http://shapecatcher.com/), for example.
