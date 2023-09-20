@@ -2,7 +2,7 @@
 - 👀 I’m interested in C/C++, Rust, optimization, and all things database-related.
 - 🌱 I’m currently learning Rust and re-learning C++.
 - 💞️ I’m looking to collaborate on anything that involves DBs, Rust, lower-level code, ML, MLOps, and/or general-purpose utility, such as [Detexify](https://detexify.kirelabs.org/classify.html) or [Shapecatcher](http://shapecatcher.com/), for example.
-- 📫 I have a [LinkedIn](https://www.linkedin.com/in/andy-v/) - feel free to reach out there if professionally interested.
+- 📫 I have a [LinkedIn](https://www.linkedin.com/in/andy-v/) - feel free to reach out there if professionally interested. I have research experience with Convolutional Neural Network hyperparameter training for computer vision, as well as some DS and ML background as both a Math and CS major.
 
 Project Euler completion status:
 
