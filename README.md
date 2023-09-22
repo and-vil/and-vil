@@ -6,9 +6,10 @@
 
 Project Euler completion status:
 
-![Project Euler Completion Status](https://projecteuler.net/profile/avillalobos.png?)
+![Project Euler Completion Status](https://projecteuler.net/profile/avillalobos.png)
 
 <!--Note: to refresh this image, the following need run in Git Bash:
 curl -X PURGE https://camo.githubusercontent.com/4d04abe0044d94fefcf9af2133223....
 * see https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-anonymized-urls#removing-an-image-from-camos-cache*
+--alternatively, add a `?` to the end of the image URL to redraw
 -->
