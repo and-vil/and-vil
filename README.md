@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything that involves DBs, lower-level code, ML, MLOps, and/or general-purpose utility, such as [Detexify](https://detexify.kirelabs.org/classify.html) or [Shapecatcher](http://shapecatcher.com/), for example.
 - 📫 I have a [LinkedIn](https://www.linkedin.com/in/andy-v/) - feel free to reach out there if professionally interested. I have research experience with Convolutional Neural Network hyperparameter training for computer vision, as well as some DS and ML background as both a Math and CS major. Additionally, I have over a decade of experience in technology support and development, from frontend to backend and plenty in between.
 
-Project Euler completion status:
+Project Euler completion status::
 
 ![Project Euler Completion Status](https://projecteuler.net/profile/avillalobos.png)
 
