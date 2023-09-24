@@ -13,3 +13,4 @@ curl -X PURGE https://camo.githubusercontent.com/4d04abe0044d94fefcf9af2133223..
 * see https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-anonymized-urls#removing-an-image-from-camos-cache*
 --alternatively, add a `?` to the end of the image URL to redraw, will test later to see if that's persistent...
 -->
+Profile Image © Andres Villalobos 2023 - All Rights Reserved.
