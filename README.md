@@ -6,7 +6,7 @@
 
 Project Euler completion status:
 
-![Project Euler Completion Status](https://projecteuler.net/profile/avillalobos.png?timestamp=0)
+![Project Euler Completion Status](https://projecteuler.net/profile/avillalobos.png?timestamp=1)
 
 <!--Note: to refresh this image, the following need run in Git Bash:
 curl -X PURGE https://camo.githubusercontent.com/4d04abe0044d94fefcf9af2133223....
